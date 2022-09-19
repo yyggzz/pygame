@@ -2,7 +2,7 @@
 
 #### 0. This is a game for two fish to shoot each other, each has 10 points initially. Move up/down/left/right to avoid being hitted and try to hit your opponent to die first.
 #### 1. Install pygame locally (https://www.pygame.org/wiki/GettingStarted)
-#### 2. To run in Terminal: >> python3 fish_shooting.py
+#### 2. To run in Terminal: >> python3 fishshooting.py
 #### 3. To control each fish using keyboard:
 
 **Left fish:** 
